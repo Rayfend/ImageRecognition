@@ -2,11 +2,11 @@
 Image Recognition Program to Determine Pearlite and Ferrite Phases in Steel Material Microstructure
 
 # Install the package
-pip install opencv-python-headless matplotlib
+    pip install opencv-python-headless matplotlib
 
-pip install opencv-python numpy
+    pip install opencv-python numpy
 
-pip install matplotlib
+    pip install matplotlib
 
 # Create the model
 import cv2
